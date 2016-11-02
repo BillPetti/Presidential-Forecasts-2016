@@ -60,13 +60,13 @@ pres_forecasts <- function() {
     group_by(party_code, straight_average) %>% 
     summarise(electoral_votes = sum(`E.V.`)) %>%
     arrange(desc(straight_average)) %>%
-    mutate(cummulative_ev = cumsum(.$electoral_votes))
+    mutate(cumulative_ev = cumsum(.$electoral_votes))
   
   votes_by_prob_rep <- cast_data_rep %>% 
     group_by(party_code, straight_average) %>% 
     summarise(electoral_votes = sum(`E.V.`)) %>%
     arrange(desc(straight_average)) %>%
-    mutate(cummulative_ev = cumsum(.$electoral_votes))
+    mutate(cumulative_ev = cumsum(.$electoral_votes))
   
   bind_party_prob <- rbind(votes_by_prob_dem, votes_by_prob_rep) %>%
     ungroup()
@@ -82,42 +82,42 @@ pres_forecasts <- function() {
   # party's faceted 
   
   plot_facet <- bind_party_prob %>%
-    ggplot(aes(straight_average, cummulative_ev, group = 1)) + 
+    ggplot(aes(straight_average, cumulative_ev, group = 1)) + 
     geom_line(aes(color = party_code)) + 
     geom_point(aes(color = party_code), size = 3) +
     geom_hline(yintercept = 270, linetype = "dashed", color = "blue") + 
     facet_wrap(~party_code, scales = "free_x") +
     scale_x_reverse(labels = percent, breaks = seq(from = 0, to = 1, by = .1)) +
     scale_color_manual(values = party_palette, guide = FALSE) + 
-    ggtitle(paste0("\nCummulative Electoral Votes by Probability of Party Win (State-Level): ", format(Sys.Date(), "%B %d, %Y"), "\n")) +
+    ggtitle(paste0("\nCumulative Electoral Votes by Probability of Party Win (State-Level): ", format(Sys.Date(), "%B %d, %Y"), "\n")) +
     xlab("\nProbability of Party Win (State-Level: Average of Major Forecasts)") +
-    ylab("\nCummulative Electoral Votes\n") +
-    labs(subtitle = "This graph compares the cummulative electoral votes for each party based on the probability that the party will win each state\n", caption = "\nData acquired from The Upshot (http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html?_r=0)\nCreated by Bill Petti\n") + 
+    ylab("\nCumulative Electoral Votes\n") +
+    labs(subtitle = "This graph compares the cumulative electoral votes for each party based on the probability that the party will win each state\n", caption = "\nData acquired from The Upshot (http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html?_r=0)\nCreated by Bill Petti\n") + 
     theme_bp_grey() + 
     theme(axis.text.x = element_text(size = 8), plot.title = element_text(size = 22), strip.text.x = element_text(face = "bold", size = 14))
   
-  ggsave(paste0("cummulative_ev_2016_facet_", Sys.Date(), ".png"), scale = 1.1, height = 8.5, width = 14, units = "in")
+  ggsave(paste0("cumulative_ev_2016_facet_", Sys.Date(), ".png"), scale = 1.1, height = 8.5, width = 14, units = "in")
   
   assign("plot_facet", plot_facet, envir = .GlobalEnv)
   
   # party's plotted together
   
   plot_combined <- bind_party_prob %>%
-    ggplot(aes(straight_average, cummulative_ev, group = 1)) + 
+    ggplot(aes(straight_average, cumulative_ev, group = 1)) + 
     geom_line(aes(color = party_code, group = party_code)) + 
     geom_point(aes(color = party_code, group = party_code), size = 3) +
     geom_hline(yintercept = 270, linetype = "dashed", color = "blue") + 
     #facet_wrap(~party_code, scales = "free_x") +
     scale_x_reverse(labels = percent, breaks = seq(from = 0, to = 1, by = .1)) +
     scale_color_manual(values = party_palette, "Party") + 
-    ggtitle(paste0("\nCummulative Electoral Votes by Probability of Party Win (State-Level): ", format(Sys.Date(), "%B %d, %Y"), "\n")) +
+    ggtitle(paste0("\nCumulative Electoral Votes by Probability of Party Win (State-Level): ", format(Sys.Date(), "%B %d, %Y"), "\n")) +
     xlab("\nProbability of Party Win (State-Level: Average of Major Forecasts)") +
-    ylab("\nCummulative Electoral Votes\n") +
-    labs(subtitle = "  This graph compares the cummulative electoral votes for each party based on the probability that the party will win each state\n", caption = "\nData acquired from The Upshot (http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html?_r=0)\nCreated by Bill Petti\n") + 
+    ylab("\nCumulative Electoral Votes\n") +
+    labs(subtitle = "  This graph compares the cumulative electoral votes for each party based on the probability that the party will win each state\n", caption = "\nData acquired from The Upshot (http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html?_r=0)\nCreated by Bill Petti\n") + 
     theme_bp_grey() + 
     theme(axis.text.x = element_text(size = 8), plot.title = element_text(size = 22), strip.text.x = element_text(face = "bold", size = 14))
   
-  ggsave(paste0("cummulative_ev_2016_", Sys.Date(), ".png"), scale = 1.1, height = 8.5, width = 14, units = "in")
+  ggsave(paste0("cumulative_ev_2016_", Sys.Date(), ".png"), scale = 1.1, height = 8.5, width = 14, units = "in")
   
   assign("plot_combined", plot_combined, envir = .GlobalEnv)
   
