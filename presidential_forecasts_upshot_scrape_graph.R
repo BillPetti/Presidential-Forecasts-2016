@@ -94,7 +94,7 @@ pres_forecasts <- function() {
     ylab("\nCumulative Electoral Votes\n") +
     labs(subtitle = "This graph compares the cumulative electoral votes for each party based on the probability that the party will win each state\n", caption = "\nData acquired from The Upshot (http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html?_r=0)\nCreated by Bill Petti\n") + 
     theme_bp_grey() + 
-    theme(axis.text.x = element_text(size = 8), plot.title = element_text(size = 22), strip.text.x = element_text(face = "bold", size = 14))
+    theme(axis.text.x = element_text(size = 10), plot.title = element_text(size = 22), strip.text.x = element_text(face = "bold", size = 14))
   
   ggsave(paste0("cumulative_ev_2016_facet_", Sys.Date(), ".png"), scale = 1.1, height = 8.5, width = 14, units = "in")
   
@@ -115,7 +115,7 @@ pres_forecasts <- function() {
     ylab("\nCumulative Electoral Votes\n") +
     labs(subtitle = "  This graph compares the cumulative electoral votes for each party based on the probability that the party will win each state\n", caption = "\nData acquired from The Upshot (http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html?_r=0)\nCreated by Bill Petti\n") + 
     theme_bp_grey() + 
-    theme(axis.text.x = element_text(size = 8), plot.title = element_text(size = 22), strip.text.x = element_text(face = "bold", size = 14))
+    theme(axis.text.x = element_text(size = 10), plot.title = element_text(size = 22), strip.text.x = element_text(face = "bold", size = 14))
   
   ggsave(paste0("cumulative_ev_2016_", Sys.Date(), ".png"), scale = 1.1, height = 8.5, width = 14, units = "in")
   
