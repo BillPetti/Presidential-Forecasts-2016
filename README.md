@@ -11,14 +11,14 @@ After scraping the data, the function will extract the numerical data from each 
 
 ![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/Screen%20Shot%202016-11-02%20at%2010.02.39%20AM.png?raw=true)
 
-The data is then re-cast so that average probabilities can be calculated across the six forecasters. This is done for both parties, with cummulative electoral votes calculated sorted by the probability of a party winning a state. A date column is also added.
+The data is then re-cast so that average probabilities can be calculated across the six forecasters. This is done for both parties, with cumulative electoral votes calculated sorted by the probability of a party winning a state. A date column is also added.
 
 ![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/Screen%20Shot%202016-11-02%20at%2010.06.20%20AM.png?raw=true)
 
-Two plots are also provided. The first plots the cummulative probability for each party in a faceted chart, with a dashed horizontal line plotted at 270 electoral votes. The second plot simply combines both parties into one chart.
+Two plots are also provided. The first plots the cumulative probability for each party in a faceted chart, with a dashed horizontal line plotted at 270 electoral votes. The second plot simply combines both parties into one chart.
 
-![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/cummulative_ev_2016_facet_2016-11-02.png?raw=true) 
-![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/cummulative_ev_2016_2016-11-02.png?raw=true)  
+![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/cumulative_ev_2016_facet_2016-11-02.png?raw=true) 
+![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/cumulative_ev_2016_2016-11-02.png?raw=true)  
 
 The function will also assign the plots and two main data sets to the Global Environment as well as exporting them to the working directory with a unique name based on the date the function was run.
 
