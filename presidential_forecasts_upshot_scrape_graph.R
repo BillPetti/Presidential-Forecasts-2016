@@ -78,6 +78,7 @@ pres_forecasts <- function() {
   # plot the data
   
   party_palette <- c("Democrat" = "#0040ff", "Republican" = "#ff0000")
+  source("https://raw.githubusercontent.com/BillPetti/R-Plotting-Resources/master/tableau_colorblind_palette")
   
   # party's faceted 
   
@@ -120,6 +121,39 @@ pres_forecasts <- function() {
   ggsave(paste0("cumulative_ev_2016_", Sys.Date(), ".png"), scale = 1.1, height = 8.5, width = 14, units = "in")
   
   assign("plot_combined", plot_combined, envir = .GlobalEnv)
+  
+  # forecasters compared - faceted
+  
+  by_forecaster <- data_melt %>% 
+    ungroup() %>%
+    filter(date == Sys.Date()) %>%
+    filter(!is.na(prob_dem_win)) %>%
+    mutate(poll_state = ifelse(poll_state == 538, "FiveThirtyEight", poll_state)) %>%
+    group_by(poll_state, prob_dem_win) %>%
+    summarize(electoral_votes = sum(E.V.)) %>%
+    ungroup() %>%
+    group_by(poll_state) %>%
+    arrange(desc(prob_dem_win)) %>% 
+    mutate(cumulative_ev = cumsum(electoral_votes))
+  
+  plot_forecasters <- by_forecaster %>%
+    ggplot(aes(prob_dem_win, cumulative_ev, group = 1)) + 
+    geom_line(aes(color = poll_state, group = poll_state)) + 
+    geom_point(aes(color = poll_state, group = poll_state), size = 3) +
+    geom_hline(yintercept = 270, linetype = "dashed", color = "blue") + 
+    facet_wrap(~poll_state, scales = "free_x") +
+    scale_x_reverse(labels = percent, breaks = seq(from = 0, to = 1, by = .1)) +
+    scale_color_manual(values = tab_palette, guide = FALSE) + 
+    ggtitle(paste0("\nCumulative Electoral Votes by Probability of Democrat Win (State-Level): ", format(Sys.Date(), "%B %d, %Y"), "\n")) +
+    xlab("\nProbability of Democrat Win (State-Level: Average of Major Forecasts)") +
+    ylab("\nCumulative Electoral Votes\n") +
+    labs(subtitle = "  These graphs compare the cumulative electoral votes for Democrats based on the probability that they will win a given state\n", caption = "\nData acquired from The Upshot (http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html?_r=0)\nCreated by Bill Petti\n") + 
+    theme_bp_grey() + 
+    theme(axis.text.x = element_text(size = 10), plot.title = element_text(size = 22), strip.text.x = element_text(face = "bold", size = 14))
+
+  ggsave(paste0("compare_forecasters_", Sys.Date(), ".png"), scale = 1.1, height = 8.5, width = 14, units = "in")
+  
+  assign("plot_forecasters", plot_forecasters, envir = .GlobalEnv)
   
   # write out data
   

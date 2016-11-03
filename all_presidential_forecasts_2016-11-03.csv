@@ -27,6 +27,10 @@
 							Del.",3,"NYT",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
+"Maryland
+							Md.",10,"NYT",">99%
+								
+									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Illinois
 							Ill.",20,"NYT",">99%
 								
@@ -35,12 +39,8 @@
 							Me.-1*",1,"NYT",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
-"Maryland
-							Md.",10,"NYT",">99%
-								
-									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "New Jersey
-							N.J.",14,"NYT",">99%
+							N.J.",14,"NYT","99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Connecticut
@@ -64,19 +64,19 @@
 								
 									 Dem.",0.97,"Dem",0.97,0.03,2016-11-03
 "New Mexico
-							N.M.",5,"NYT","95%
+							N.M.",5,"NYT","94%
 								
-									 Dem.",0.95,"Dem",0.95,0.05,2016-11-03
+									 Dem.",0.94,"Dem",0.94,0.0600000000000001,2016-11-03
 "Minnesota
 							Minn.",10,"NYT","92%
 								
 									 Dem.",0.92,"Dem",0.92,0.08,2016-11-03
-"Wisconsin
-							Wis.",10,"NYT","92%
-								
-									 Dem.",0.92,"Dem",0.92,0.08,2016-11-03
 "Pennsylvania
 							Pa.",20,"NYT","92%
+								
+									 Dem.",0.92,"Dem",0.92,0.08,2016-11-03
+"Wisconsin
+							Wis.",10,"NYT","92%
 								
 									 Dem.",0.92,"Dem",0.92,0.08,2016-11-03
 "Michigan
@@ -112,13 +112,13 @@
 								
 									 Rep.",0.55,"Rep",0.45,0.55,2016-11-03
 "Iowa
-							Iowa",6,"NYT","57%
+							Iowa",6,"NYT","58%
 								
-									 Rep.",0.57,"Rep",0.43,0.57,2016-11-03
+									 Rep.",0.58,"Rep",0.42,0.58,2016-11-03
 "Maine (CD 2)*
-							Me.-2*",1,"NYT","63%
+							Me.-2*",1,"NYT","62%
 								
-									 Rep.",0.63,"Rep",0.37,0.63,2016-11-03
+									 Rep.",0.62,"Rep",0.38,0.62,2016-11-03
 "Nebraska (CD 2)*
 							Neb.-2*",1,"NYT","64%
 								
@@ -147,12 +147,12 @@
 							Mo.",10,"NYT","88%
 								
 									 Rep.",0.88,"Rep",0.12,0.88,2016-11-03
-"Texas
-							Tex.",38,"NYT","90%
-								
-									 Rep.",0.9,"Rep",0.1,0.9,2016-11-03
 "Alaska
 							Alaska",3,"NYT","90%
+								
+									 Rep.",0.9,"Rep",0.1,0.9,2016-11-03
+"Texas
+							Tex.",38,"NYT","90%
 								
 									 Rep.",0.9,"Rep",0.1,0.9,2016-11-03
 "Louisiana
@@ -167,12 +167,12 @@
 							Tenn.",11,"NYT","98%
 								
 									 Rep.",0.98,"Rep",0.02,0.98,2016-11-03
-"Nebraska (CD 1)*
-							Neb.-1*",1,"NYT","99%
-								
-									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Idaho
 							Idaho",4,"NYT","99%
+								
+									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
+"Nebraska (CD 1)*
+							Neb.-1*",1,"NYT","99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Oklahoma
@@ -228,9 +228,9 @@
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Hawaii
-							Hawaii",4,"538","98%
+							Hawaii",4,"538","99%
 								
-									 Dem.",0.98,"Dem",0.98,0.02,2016-11-03
+									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Vermont
 							Vt.",3,"538","98%
 								
@@ -240,37 +240,37 @@
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Rhode Island
-							R.I.",4,"538","92%
+							R.I.",4,"538","91%
 								
-									 Dem.",0.92,"Dem",0.92,0.08,2016-11-03
+									 Dem.",0.91,"Dem",0.91,0.09,2016-11-03
 "California
 							Calif.",55,"538",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Delaware
-							Del.",3,"538","89%
-								
-									 Dem.",0.89,"Dem",0.89,0.11,2016-11-03
-"Illinois
-							Ill.",20,"538","98%
-								
-									 Dem.",0.98,"Dem",0.98,0.02,2016-11-03
-"Maine (CD 1)*
-							Me.-1*",1,"538","90%
+							Del.",3,"538","90%
 								
 									 Dem.",0.9,"Dem",0.9,0.1,2016-11-03
 "Maryland
 							Md.",10,"538",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
+"Illinois
+							Ill.",20,"538","98%
+								
+									 Dem.",0.98,"Dem",0.98,0.02,2016-11-03
+"Maine (CD 1)*
+							Me.-1*",1,"538","89%
+								
+									 Dem.",0.89,"Dem",0.89,0.11,2016-11-03
 "New Jersey
-							N.J.",14,"538","97%
+							N.J.",14,"538","96%
 								
-									 Dem.",0.97,"Dem",0.97,0.03,2016-11-03
+									 Dem.",0.96,"Dem",0.96,0.04,2016-11-03
 "Connecticut
-							Conn.",7,"538","95%
+							Conn.",7,"538","96%
 								
-									 Dem.",0.95,"Dem",0.95,0.05,2016-11-03
+									 Dem.",0.96,"Dem",0.96,0.04,2016-11-03
 "Washington
 							Wash.",12,"538","97%
 								
@@ -284,23 +284,23 @@
 								
 									 Dem.",0.91,"Dem",0.91,0.09,2016-11-03
 "Virginia
-							Va.",13,"538","83%
+							Va.",13,"538","81%
+								
+									 Dem.",0.81,"Dem",0.81,0.19,2016-11-03
+"New Mexico
+							N.M.",5,"538","83%
 								
 									 Dem.",0.83,"Dem",0.83,0.17,2016-11-03
-"New Mexico
-							N.M.",5,"538","85%
-								
-									 Dem.",0.85,"Dem",0.85,0.15,2016-11-03
 "Minnesota
 							Minn.",10,"538","82%
 								
 									 Dem.",0.82,"Dem",0.82,0.18,2016-11-03
-"Wisconsin
-							Wis.",10,"538","79%
-								
-									 Dem.",0.79,"Dem",0.79,0.21,2016-11-03
 "Pennsylvania
-							Pa.",20,"538","78%
+							Pa.",20,"538","76%
+								
+									 Dem.",0.76,"Dem",0.76,0.24,2016-11-03
+"Wisconsin
+							Wis.",10,"538","78%
 								
 									 Dem.",0.78,"Dem",0.78,0.22,2016-11-03
 "Michigan
@@ -308,61 +308,61 @@
 								
 									 Dem.",0.78,"Dem",0.78,0.22,2016-11-03
 "Maine
-							Me.",2,"538","79%
+							Me.",2,"538","78%
 								
-									 Dem.",0.79,"Dem",0.79,0.21,2016-11-03
+									 Dem.",0.78,"Dem",0.78,0.22,2016-11-03
 "New Hampshire
-							N.H.",4,"538","71%
+							N.H.",4,"538","69%
 								
-									 Dem.",0.71,"Dem",0.71,0.29,2016-11-03
+									 Dem.",0.69,"Dem",0.69,0.31,2016-11-03
 "Colorado
 							Colo.",9,"538","73%
 								
 									 Dem.",0.73,"Dem",0.73,0.27,2016-11-03
 "North Carolina
-							N.C.",15,"538","50%
+							N.C.",15,"538","51%
 								
-									 Rep.",0.5,"Rep",0.5,0.5,2016-11-03
+									 Rep.",0.51,"Rep",0.49,0.51,2016-11-03
 "Nevada
-							Nev.",6,"538","51%
-								
-									 Dem.",0.51,"Dem",0.51,0.49,2016-11-03
-"Florida
-							Fla.",29,"538","50%
+							Nev.",6,"538","50%
 								
 									 Dem.",0.5,"Dem",0.5,0.5,2016-11-03
-"Ohio
-							Ohio",18,"538","66%
+"Florida
+							Fla.",29,"538","51%
 								
-									 Rep.",0.66,"Rep",0.34,0.66,2016-11-03
-"Iowa
-							Iowa",6,"538","67%
+									 Rep.",0.51,"Rep",0.49,0.51,2016-11-03
+"Ohio
+							Ohio",18,"538","67%
 								
 									 Rep.",0.67,"Rep",0.33,0.67,2016-11-03
+"Iowa
+							Iowa",6,"538","71%
+								
+									 Rep.",0.71,"Rep",0.29,0.71,2016-11-03
 "Maine (CD 2)*
-							Me.-2*",1,"538","52%
+							Me.-2*",1,"538","53%
 								
-									 Rep.",0.52,"Rep",0.48,0.52,2016-11-03
+									 Rep.",0.53,"Rep",0.47,0.53,2016-11-03
 "Nebraska (CD 2)*
-							Neb.-2*",1,"538","63%
+							Neb.-2*",1,"538","61%
 								
-									 Rep.",0.63,"Rep",0.37,0.63,2016-11-03
+									 Rep.",0.61,"Rep",0.39,0.61,2016-11-03
 "Utah
-							Utah",6,"538","76%
+							Utah",6,"538","78%
 								
-									 Rep.",0.76,"Rep",0.24,0.76,2016-11-03
+									 Rep.",0.78,"Rep",0.22,0.78,2016-11-03
 "Arizona
-							Ariz.",11,"538","68%
+							Ariz.",11,"538","67%
 								
-									 Rep.",0.68,"Rep",0.32,0.68,2016-11-03
+									 Rep.",0.67,"Rep",0.33,0.67,2016-11-03
 "Georgia
 							Ga.",16,"538","85%
 								
 									 Rep.",0.85,"Rep",0.15,0.85,2016-11-03
 "South Carolina
-							S.C.",9,"538","88%
+							S.C.",9,"538","90%
 								
-									 Rep.",0.88,"Rep",0.12,0.88,2016-11-03
+									 Rep.",0.9,"Rep",0.1,0.9,2016-11-03
 "Mississippi
 							Miss.",6,"538","98%
 								
@@ -371,14 +371,14 @@
 							Mo.",10,"538","97%
 								
 									 Rep.",0.97,"Rep",0.03,0.97,2016-11-03
+"Alaska
+							Alaska",3,"538","75%
+								
+									 Rep.",0.75,"Rep",0.25,0.75,2016-11-03
 "Texas
 							Tex.",38,"538","94%
 								
 									 Rep.",0.94,"Rep",0.0600000000000001,0.94,2016-11-03
-"Alaska
-							Alaska",3,"538","74%
-								
-									 Rep.",0.74,"Rep",0.26,0.74,2016-11-03
 "Louisiana
 							La.",8,"538","99%
 								
@@ -391,14 +391,14 @@
 							Tenn.",11,"538","98%
 								
 									 Rep.",0.98,"Rep",0.02,0.98,2016-11-03
-"Nebraska (CD 1)*
-							Neb.-1*",1,"538","91%
-								
-									 Rep.",0.91,"Rep",0.09,0.91,2016-11-03
 "Idaho
 							Idaho",4,"538","99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
+"Nebraska (CD 1)*
+							Neb.-1*",1,"538","91%
+								
+									 Rep.",0.91,"Rep",0.09,0.91,2016-11-03
 "Oklahoma
 							Okla.",7,"538",">99%
 								
@@ -408,9 +408,9 @@
 								
 									 Rep.",0.96,"Rep",0.04,0.96,2016-11-03
 "Montana
-							Mont.",3,"538","95%
+							Mont.",3,"538","96%
 								
-									 Rep.",0.95,"Rep",0.05,0.95,2016-11-03
+									 Rep.",0.96,"Rep",0.04,0.96,2016-11-03
 "West Virginia
 							W.Va.",5,"538",">99%
 								
@@ -475,16 +475,16 @@
 							Del.",3,"HuffPost",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
+"Maryland
+							Md.",10,"HuffPost",">99%
+								
+									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Illinois
 							Ill.",20,"HuffPost",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Maine (CD 1)*
 							Me.-1*",1,"HuffPost",">99%
-								
-									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
-"Maryland
-							Md.",10,"HuffPost",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "New Jersey
@@ -519,12 +519,12 @@
 							Minn.",10,"HuffPost",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
-"Wisconsin
-							Wis.",10,"HuffPost","99%
-								
-									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Pennsylvania
 							Pa.",20,"HuffPost",">99%
+								
+									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
+"Wisconsin
+							Wis.",10,"HuffPost","99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Michigan
@@ -595,14 +595,14 @@
 							Mo.",10,"HuffPost",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
-"Texas
-							Tex.",38,"HuffPost","97%
-								
-									 Rep.",0.97,"Rep",0.03,0.97,2016-11-03
 "Alaska
 							Alaska",3,"HuffPost","99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
+"Texas
+							Tex.",38,"HuffPost","97%
+								
+									 Rep.",0.97,"Rep",0.03,0.97,2016-11-03
 "Louisiana
 							La.",8,"HuffPost",">99%
 								
@@ -615,12 +615,12 @@
 							Tenn.",11,"HuffPost",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
-"Nebraska (CD 1)*
-							Neb.-1*",1,"HuffPost",">99%
-								
-									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Idaho
 							Idaho",4,"HuffPost",">99%
+								
+									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
+"Nebraska (CD 1)*
+							Neb.-1*",1,"HuffPost",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Oklahoma
@@ -699,6 +699,10 @@
 							Del.",3,"PW",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
+"Maryland
+							Md.",10,"PW",">99%
+								
+									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Illinois
 							Ill.",20,"PW",">99%
 								
@@ -707,10 +711,6 @@
 							Me.-1*",1,"PW","98%
 								
 									 Dem.",0.98,"Dem",0.98,0.02,2016-11-03
-"Maryland
-							Md.",10,"PW",">99%
-								
-									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "New Jersey
 							N.J.",14,"PW",">99%
 								
@@ -743,14 +743,14 @@
 							Minn.",10,"PW","99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
-"Wisconsin
-							Wis.",10,"PW","96%
-								
-									 Dem.",0.96,"Dem",0.96,0.04,2016-11-03
 "Pennsylvania
 							Pa.",20,"PW","92%
 								
 									 Dem.",0.92,"Dem",0.92,0.08,2016-11-03
+"Wisconsin
+							Wis.",10,"PW","96%
+								
+									 Dem.",0.96,"Dem",0.96,0.04,2016-11-03
 "Michigan
 							Mich.",16,"PW","97%
 								
@@ -760,33 +760,33 @@
 								
 									 Dem.",0.98,"Dem",0.98,0.02,2016-11-03
 "New Hampshire
-							N.H.",4,"PW","91%
+							N.H.",4,"PW","86%
 								
-									 Dem.",0.91,"Dem",0.91,0.09,2016-11-03
+									 Dem.",0.86,"Dem",0.86,0.14,2016-11-03
 "Colorado
 							Colo.",9,"PW","86%
 								
 									 Dem.",0.86,"Dem",0.86,0.14,2016-11-03
 "North Carolina
-							N.C.",15,"PW","63%
+							N.C.",15,"PW","60%
 								
-									 Dem.",0.63,"Dem",0.63,0.37,2016-11-03
+									 Dem.",0.6,"Dem",0.6,0.4,2016-11-03
 "Nevada
-							Nev.",6,"PW","71%
+							Nev.",6,"PW","75%
 								
-									 Dem.",0.71,"Dem",0.71,0.29,2016-11-03
+									 Dem.",0.75,"Dem",0.75,0.25,2016-11-03
 "Florida
-							Fla.",29,"PW","56%
+							Fla.",29,"PW","59%
 								
-									 Dem.",0.56,"Dem",0.56,0.44,2016-11-03
+									 Dem.",0.59,"Dem",0.59,0.41,2016-11-03
 "Ohio
-							Ohio",18,"PW","75%
-								
-									 Rep.",0.75,"Rep",0.25,0.75,2016-11-03
-"Iowa
-							Iowa",6,"PW","73%
+							Ohio",18,"PW","73%
 								
 									 Rep.",0.73,"Rep",0.27,0.73,2016-11-03
+"Iowa
+							Iowa",6,"PW","74%
+								
+									 Rep.",0.74,"Rep",0.26,0.74,2016-11-03
 "Maine (CD 2)*
 							Me.-2*",1,"PW","58%
 								
@@ -796,13 +796,13 @@
 								
 									 Rep.",0.73,"Rep",0.27,0.73,2016-11-03
 "Utah
-							Utah",6,"PW","77%
+							Utah",6,"PW","78%
 								
-									 Rep.",0.77,"Rep",0.23,0.77,2016-11-03
+									 Rep.",0.78,"Rep",0.22,0.78,2016-11-03
 "Arizona
-							Ariz.",11,"PW","77%
+							Ariz.",11,"PW","78%
 								
-									 Rep.",0.77,"Rep",0.23,0.77,2016-11-03
+									 Rep.",0.78,"Rep",0.22,0.78,2016-11-03
 "Georgia
 							Ga.",16,"PW","91%
 								
@@ -819,32 +819,32 @@
 							Mo.",10,"PW","99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
-"Texas
-							Tex.",38,"PW","98%
-								
-									 Rep.",0.98,"Rep",0.02,0.98,2016-11-03
 "Alaska
 							Alaska",3,"PW","93%
 								
 									 Rep.",0.93,"Rep",0.07,0.93,2016-11-03
+"Texas
+							Tex.",38,"PW","99%
+								
+									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Louisiana
 							La.",8,"PW","99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Indiana
-							Ind.",11,"PW","97%
+							Ind.",11,"PW","98%
 								
-									 Rep.",0.97,"Rep",0.03,0.97,2016-11-03
+									 Rep.",0.98,"Rep",0.02,0.98,2016-11-03
 "Tennessee
 							Tenn.",11,"PW",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
-"Nebraska (CD 1)*
-							Neb.-1*",1,"PW",">99%
-								
-									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Idaho
 							Idaho",4,"PW",">99%
+								
+									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
+"Nebraska (CD 1)*
+							Neb.-1*",1,"PW",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Oklahoma
@@ -923,16 +923,16 @@
 							Del.",3,"PEC",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
+"Maryland
+							Md.",10,"PEC",">99%
+								
+									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Illinois
 							Ill.",20,"PEC",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Maine (CD 1)*
 							Me.-1*",1,"PEC",">99%
-								
-									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
-"Maryland
-							Md.",10,"PEC",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "New Jersey
@@ -967,14 +967,14 @@
 							Minn.",10,"PEC","99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
-"Wisconsin
-							Wis.",10,"PEC","95%
-								
-									 Dem.",0.95,"Dem",0.95,0.05,2016-11-03
 "Pennsylvania
 							Pa.",20,"PEC","93%
 								
 									 Dem.",0.93,"Dem",0.93,0.07,2016-11-03
+"Wisconsin
+							Wis.",10,"PEC","95%
+								
+									 Dem.",0.95,"Dem",0.95,0.05,2016-11-03
 "Michigan
 							Mich.",16,"PEC","93%
 								
@@ -1000,9 +1000,9 @@
 								
 									 Dem.",0.5,"Dem",0.5,0.5,2016-11-03
 "Florida
-							Fla.",29,"PEC","74%
+							Fla.",29,"PEC","69%
 								
-									 Dem.",0.74,"Dem",0.74,0.26,2016-11-03
+									 Dem.",0.69,"Dem",0.69,0.31,2016-11-03
 "Ohio
 							Ohio",18,"PEC","84%
 								
@@ -1024,9 +1024,9 @@
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Arizona
-							Ariz.",11,"PEC","74%
+							Ariz.",11,"PEC","69%
 								
-									 Rep.",0.74,"Rep",0.26,0.74,2016-11-03
+									 Rep.",0.69,"Rep",0.31,0.69,2016-11-03
 "Georgia
 							Ga.",16,"PEC","95%
 								
@@ -1043,14 +1043,14 @@
 							Mo.",10,"PEC",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
-"Texas
-							Tex.",38,"PEC",">99%
-								
-									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Alaska
 							Alaska",3,"PEC","98%
 								
 									 Rep.",0.98,"Rep",0.02,0.98,2016-11-03
+"Texas
+							Tex.",38,"PEC",">99%
+								
+									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Louisiana
 							La.",8,"PEC",">99%
 								
@@ -1063,12 +1063,12 @@
 							Tenn.",11,"PEC",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
-"Nebraska (CD 1)*
-							Neb.-1*",1,"PEC",">99%
-								
-									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Idaho
 							Idaho",4,"PEC",">99%
+								
+									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
+"Nebraska (CD 1)*
+							Neb.-1*",1,"PEC",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Oklahoma
@@ -1147,16 +1147,16 @@
 							Del.",3,"DK",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
+"Maryland
+							Md.",10,"DK",">99%
+								
+									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Illinois
 							Ill.",20,"DK",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Maine (CD 1)*
 							Me.-1*",1,"DK","N.A.",NA,"",NA,NA,2016-11-03
-"Maryland
-							Md.",10,"DK",">99%
-								
-									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "New Jersey
 							N.J.",14,"DK",">99%
 								
@@ -1182,21 +1182,21 @@
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "New Mexico
-							N.M.",5,"DK","99%
+							N.M.",5,"DK",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Minnesota
-							Minn.",10,"DK","99%
+							Minn.",10,"DK",">99%
+								
+									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
+"Pennsylvania
+							Pa.",20,"DK",">99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "Wisconsin
 							Wis.",10,"DK","99%
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
-"Pennsylvania
-							Pa.",20,"DK","98%
-								
-									 Dem.",0.98,"Dem",0.98,0.02,2016-11-03
 "Michigan
 							Mich.",16,"DK",">99%
 								
@@ -1206,33 +1206,33 @@
 								
 									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
 "New Hampshire
-							N.H.",4,"DK","98%
+							N.H.",4,"DK","99%
+								
+									 Dem.",0.99,"Dem",0.99,0.01,2016-11-03
+"Colorado
+							Colo.",9,"DK","98%
 								
 									 Dem.",0.98,"Dem",0.98,0.02,2016-11-03
-"Colorado
-							Colo.",9,"DK","96%
-								
-									 Dem.",0.96,"Dem",0.96,0.04,2016-11-03
 "North Carolina
-							N.C.",15,"DK","82%
-								
-									 Dem.",0.82,"Dem",0.82,0.18,2016-11-03
-"Nevada
-							Nev.",6,"DK","72%
+							N.C.",15,"DK","72%
 								
 									 Dem.",0.72,"Dem",0.72,0.28,2016-11-03
+"Nevada
+							Nev.",6,"DK","68%
+								
+									 Dem.",0.68,"Dem",0.68,0.32,2016-11-03
 "Florida
-							Fla.",29,"DK","81%
+							Fla.",29,"DK","80%
 								
-									 Dem.",0.81,"Dem",0.81,0.19,2016-11-03
+									 Dem.",0.8,"Dem",0.8,0.2,2016-11-03
 "Ohio
-							Ohio",18,"DK","64%
+							Ohio",18,"DK","75%
 								
-									 Rep.",0.64,"Rep",0.36,0.64,2016-11-03
+									 Rep.",0.75,"Rep",0.25,0.75,2016-11-03
 "Iowa
-							Iowa",6,"DK","78%
+							Iowa",6,"DK","88%
 								
-									 Rep.",0.78,"Rep",0.22,0.78,2016-11-03
+									 Rep.",0.88,"Rep",0.12,0.88,2016-11-03
 "Maine (CD 2)*
 							Me.-2*",1,"DK","N.A.",NA,"",NA,NA,2016-11-03
 "Nebraska (CD 2)*
@@ -1242,15 +1242,15 @@
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Arizona
-							Ariz.",11,"DK","69%
+							Ariz.",11,"DK","81%
 								
-									 Rep.",0.69,"Rep",0.31,0.69,2016-11-03
+									 Rep.",0.81,"Rep",0.19,0.81,2016-11-03
 "Georgia
-							Ga.",16,"DK","83%
+							Ga.",16,"DK","94%
 								
-									 Rep.",0.83,"Rep",0.17,0.83,2016-11-03
+									 Rep.",0.94,"Rep",0.0600000000000001,0.94,2016-11-03
 "South Carolina
-							S.C.",9,"DK","99%
+							S.C.",9,"DK",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Mississippi
@@ -1261,12 +1261,12 @@
 							Mo.",10,"DK",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
-"Texas
-							Tex.",38,"DK","99%
-								
-									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Alaska
 							Alaska",3,"DK",">99%
+								
+									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
+"Texas
+							Tex.",38,"DK",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
 "Louisiana
@@ -1281,12 +1281,12 @@
 							Tenn.",11,"DK",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
-"Nebraska (CD 1)*
-							Neb.-1*",1,"DK","N.A.",NA,"",NA,NA,2016-11-03
 "Idaho
 							Idaho",4,"DK",">99%
 								
 									 Rep.",0.99,"Rep",0.01,0.99,2016-11-03
+"Nebraska (CD 1)*
+							Neb.-1*",1,"DK","N.A.",NA,"",NA,NA,2016-11-03
 "Oklahoma
 							Okla.",7,"DK",">99%
 								
@@ -1361,16 +1361,16 @@
 							Del.",3,"Cook","Solid
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
+"Maryland
+							Md.",10,"Cook","Solid
+								
+									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Illinois
 							Ill.",20,"Cook","Solid
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Maine (CD 1)*
 							Me.-1*",1,"Cook","Solid
-								
-									 Dem.",NA,"Dem",NA,NA,2016-11-03
-"Maryland
-							Md.",10,"Cook","Solid
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "New Jersey
@@ -1405,12 +1405,12 @@
 							Minn.",10,"Cook","Likely
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
-"Wisconsin
-							Wis.",10,"Cook","Lean
-								
-									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Pennsylvania
 							Pa.",20,"Cook","Lean
+								
+									 Dem.",NA,"Dem",NA,NA,2016-11-03
+"Wisconsin
+							Wis.",10,"Cook","Lean
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Michigan
@@ -1473,12 +1473,12 @@
 							Mo.",10,"Cook","Likely
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
-"Texas
-							Tex.",38,"Cook","Likely
-								
-									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Alaska
 							Alaska",3,"Cook","Likely
+								
+									 Rep.",NA,"Rep",NA,NA,2016-11-03
+"Texas
+							Tex.",38,"Cook","Likely
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Louisiana
@@ -1493,12 +1493,12 @@
 							Tenn.",11,"Cook","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
-"Nebraska (CD 1)*
-							Neb.-1*",1,"Cook","Solid
-								
-									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Idaho
 							Idaho",4,"Cook","Solid
+								
+									 Rep.",NA,"Rep",NA,NA,2016-11-03
+"Nebraska (CD 1)*
+							Neb.-1*",1,"Cook","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Oklahoma
@@ -1577,16 +1577,16 @@
 							Del.",3,"Roth.1","Solid
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
+"Maryland
+							Md.",10,"Roth.1","Solid
+								
+									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Illinois
 							Ill.",20,"Roth.1","Solid
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Maine (CD 1)*
 							Me.-1*",1,"Roth.1","Solid
-								
-									 Dem.",NA,"Dem",NA,NA,2016-11-03
-"Maryland
-							Md.",10,"Roth.1","Solid
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "New Jersey
@@ -1621,12 +1621,12 @@
 							Minn.",10,"Roth.1","Likely
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
-"Wisconsin
-							Wis.",10,"Roth.1","Lean
-								
-									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Pennsylvania
 							Pa.",20,"Roth.1","Lean
+								
+									 Dem.",NA,"Dem",NA,NA,2016-11-03
+"Wisconsin
+							Wis.",10,"Roth.1","Lean
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Michigan
@@ -1689,12 +1689,12 @@
 							Mo.",10,"Roth.1","Likely
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
-"Texas
-							Tex.",38,"Roth.1","Solid
-								
-									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Alaska
 							Alaska",3,"Roth.1","Solid
+								
+									 Rep.",NA,"Rep",NA,NA,2016-11-03
+"Texas
+							Tex.",38,"Roth.1","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Louisiana
@@ -1709,12 +1709,12 @@
 							Tenn.",11,"Roth.1","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
-"Nebraska (CD 1)*
-							Neb.-1*",1,"Roth.1","Solid
-								
-									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Idaho
 							Idaho",4,"Roth.1","Solid
+								
+									 Rep.",NA,"Rep",NA,NA,2016-11-03
+"Nebraska (CD 1)*
+							Neb.-1*",1,"Roth.1","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Oklahoma
@@ -1793,16 +1793,16 @@
 							Del.",3,"Sabato","Solid
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
+"Maryland
+							Md.",10,"Sabato","Solid
+								
+									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Illinois
 							Ill.",20,"Sabato","Solid
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Maine (CD 1)*
 							Me.-1*",1,"Sabato","Solid
-								
-									 Dem.",NA,"Dem",NA,NA,2016-11-03
-"Maryland
-							Md.",10,"Sabato","Solid
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "New Jersey
@@ -1837,12 +1837,12 @@
 							Minn.",10,"Sabato","Likely
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
-"Wisconsin
-							Wis.",10,"Sabato","Likely
-								
-									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Pennsylvania
 							Pa.",20,"Sabato","Likely
+								
+									 Dem.",NA,"Dem",NA,NA,2016-11-03
+"Wisconsin
+							Wis.",10,"Sabato","Likely
 								
 									 Dem.",NA,"Dem",NA,NA,2016-11-03
 "Michigan
@@ -1896,7 +1896,7 @@
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "South Carolina
-							S.C.",9,"Sabato","Likely
+							S.C.",9,"Sabato","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Mississippi
@@ -1904,15 +1904,15 @@
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Missouri
-							Mo.",10,"Sabato","Likely
-								
-									 Rep.",NA,"Rep",NA,NA,2016-11-03
-"Texas
-							Tex.",38,"Sabato","Likely
+							Mo.",10,"Sabato","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Alaska
 							Alaska",3,"Sabato","Likely
+								
+									 Rep.",NA,"Rep",NA,NA,2016-11-03
+"Texas
+							Tex.",38,"Sabato","Likely
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Louisiana
@@ -1920,19 +1920,19 @@
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Indiana
-							Ind.",11,"Sabato","Likely
+							Ind.",11,"Sabato","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Tennessee
 							Tenn.",11,"Sabato","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
-"Nebraska (CD 1)*
-							Neb.-1*",1,"Sabato","Solid
+"Idaho
+							Idaho",4,"Sabato","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
-"Idaho
-							Idaho",4,"Sabato","Likely
+"Nebraska (CD 1)*
+							Neb.-1*",1,"Sabato","Solid
 								
 									 Rep.",NA,"Rep",NA,NA,2016-11-03
 "Oklahoma
