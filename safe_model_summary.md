@@ -2,7 +2,7 @@
 
 ## SAFE Model
 
-For fun, I put together a very, very simply model using the forecasts produced by the major forecasters. SAFE stands for Simple Averaged Forecasters Estimate. Essentially, I average the probability of a candidate winning a state across the six major forecasters, then multiply that averaged probability with that state's electoral votes. Summing the estimated electoral votes across states for each candidate gives us a very simple model of what the election outcome might look like.
+For fun, I put together a very, very simply model using the forecasts produced by the six major forecasters (i.e. PEC, 538, The Upshot, DailyKos, PredictWise, and The Huffington Post). SAFE stands for Simple Averaged Forecasters Estimate. Data is collected from The Upshot using my `pres_forecast` function (see [here](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/README.md)). SAFE generates a forecast by simply averaging the probability of a candidate winning a state across the six major forecasters, then multiplies that averaged probability with that state's electoral votes. Summing the estimated electoral votes across states for each candidate gives us a very simple model of what the election outcome might look like.
 
 ## Current Prediction
 
