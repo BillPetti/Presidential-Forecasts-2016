@@ -6,7 +6,7 @@ For fun, I put together a very, very simply model using the forecasts produced b
 
 ## Current Prediction
 
-As of November 5th, SAFE is estimating that Hilary Clinton will win 314 electoral votes to Donald Trump's 224. 
+As of November 5th, SAFE is estimating that Hillary Clinton will win 314 electoral votes to Donald Trump's 224. 
 
 ![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/estimated_electoral_votes_2016-11-05.png?raw=true)
 
