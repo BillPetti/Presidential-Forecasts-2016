@@ -6,7 +6,7 @@ For fun, I put together a very, very simply model using the forecasts produced b
 
 ## Current Prediction (6:45am EST on November 7, 2016)
 
-With one day to go until the election, Hillary Clinton maintains her lead over Donald Trump, with an estimated 312 electoral votes going to the Democratic Party's candidate. 
+With one day to go until the election, SAFE shows Hillary Clinton maintaining her lead over Donald Trump, with an estimated 312 electoral votes going to the Democratic Party's candidate. 
 
 ![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/estimated_electoral_votes_2016-11-07.png?raw=true)
 
@@ -21,6 +21,10 @@ There was continued weakening in Clinton's chances in North Carolina and New Ham
 ![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/trend_NH_2016-11-07.png?raw=true)
 
 These states represent two of the five where the major forecasters differ the most; North Carolina has a standard deviation of .1703 across the six major forecasters, while New Hampshire has a standard deviation of .1302.
+
+One of the other ways Clinton can win is by taking Nevada's 6 electoral votes. Clinton has a 63.8% chance of winning Nevada, based on an average of the major forecasters, a decline of 4.4% since last week. Nevada is also one of the states where the major forecasters disagree the most, with a standard deviation of .1588.
+
+![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/trend_NV_2016-11-07.png?raw=true)
 
 ## Previous Updates
 
