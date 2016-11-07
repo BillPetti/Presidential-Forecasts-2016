@@ -4,7 +4,7 @@
 
 For fun, I put together a very, very simply model using the forecasts produced by the six major forecasters (i.e. PEC, 538, The Upshot, DailyKos, PredictWise, and The Huffington Post). SAFE stands for Simple Averaged Forecasters Estimate. Data is collected from The Upshot using my `pres_forecast` function (see [here](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/README.md)). SAFE generates a forecast by simply averaging the probability of a candidate winning a state across the six major forecasters, then multiplies that averaged probability with that state's electoral votes. Summing the estimated electoral votes across states for each candidate gives us a very simple model of what the election outcome might look like.
 
-## Current Prediction (6:45am EST on November 7, 2016)
+## Current Prediction (7:12am EST on November 7, 2016)
 
 With one day to go until the election, SAFE shows Hillary Clinton maintaining her lead over Donald Trump, with an estimated 312 electoral votes going to the Democratic Party's candidate. 
 
@@ -28,7 +28,7 @@ One of the other ways Clinton can win is by taking Nevada's 6 electoral votes. C
 
 ## Previous Updates
 
-### As of November 5, 2016
+### November 5, 2016
 
 As of November 5th, SAFE is estimating that Hillary Clinton will win 314 electoral votes to Donald Trump's 224. 
 
