@@ -26,6 +26,8 @@ One of the other ways Clinton can win is by taking Nevada's 6 electoral votes. C
 
 ![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/trend_NV_2016-11-07.png?raw=true)
 
+Full table with average probabilities and standard deviations can be found [here](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/Average%20and%20Standard%20Deviation%20Across%20Forecasters.csv).
+
 ## Previous Updates
 
 ### November 5, 2016
