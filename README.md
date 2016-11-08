@@ -1,6 +1,8 @@
 # Presidential-Forecasts-2016
 Function to scrape, format, and plot forecaster data for the 2016 U.S. Presidential Election
 
+For information about the SAFE model and other data about the election, see [here](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/safe_model_summary.md).
+
 ## How to use the `pres_forecasts` function
 
 The `pres_forecasts` function will first scrape the state-level forecasts aggregated by The Upshot:
