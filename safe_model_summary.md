@@ -26,7 +26,7 @@ Her probability of victory increased in New Hampshire to 81% (+4.8%), in Florida
 
 Full table with average probabilities and standard deviations can be found [here](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/Average%20and%20Standard%20Deviation%20Across%20Forecasters.csv).
 
-__*Note:*__ *Probabilities for the congressional districts in Maine and Nebraska where not available from DailyKos.*
+_**Note:**_ *Probabilities for the congressional districts in Maine and Nebraska where not available from DailyKos.*
 
 ## Previous Updates
 
