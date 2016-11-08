@@ -4,7 +4,7 @@
 
 For fun, I put together a very, very simply model using the forecasts produced by the six major forecasters (i.e. PEC, 538, The Upshot, DailyKos, PredictWise, and The Huffington Post). SAFE stands for Simple Averaged Forecasters Estimate. Data is collected from The Upshot using my `pres_forecast` function (see [here](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/README.md)). SAFE generates a forecast by simply averaging the probability of a candidate winning a state across the six major forecasters, then multiplies that averaged probability with that state's electoral votes. Summing the estimated electoral votes across states for each candidate gives us a very simple model of what the election outcome might look like.
 
-## Final Prediction (6:32am EST on November 8, 2016)
+## Final Prediction (7:00am EST on November 8, 2016)
 
 Election Day is here, and the final SAFE model shows Hillary Clinton winning the election with an estimated 314 electoral votes to Donald Trump's 224.
 
@@ -25,6 +25,8 @@ Clinton's chances rebounded in three critical states in the final day of polling
 Her probability of victory increased in New Hampshire to 81% (+4.8%), in Florida to 74.6% (+3.2%), and in Nevada to 71.8% (+8%). 
 
 Full table with average probabilities and standard deviations can be found [here](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/Average%20and%20Standard%20Deviation%20Across%20Forecasters.csv).
+
+*Note: Probabilities for the congressional districts in Maine and Nebraska where not available from DailyKos.
 
 ## Previous Updates
 
