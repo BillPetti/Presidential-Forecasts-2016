@@ -1,3 +1,7 @@
+# function for scraping and munging major forecasters state-level predictions
+# Bill Petti
+# November, 2016
+
 pres_forecasts <- function() {
   require(magrittr)
   require(rvest)
