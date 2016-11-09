@@ -4,6 +4,34 @@
 
 For fun, I put together a very, very simply model using the forecasts produced by the six major forecasters (i.e. PEC, 538, The Upshot, DailyKos, PredictWise, and The Huffington Post). SAFE stands for Simple Averaged Forecasters Estimate. Data is collected from The Upshot using my `pres_forecast` function (see [here](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/README.md)). SAFE generates a forecast by simply averaging the probability of a candidate winning a state across the six major forecasters, then multiplies that averaged probability with that state's electoral votes. Summing the estimated electoral votes across states for each candidate gives us a very simple model of what the election outcome might look like.
 
+## Election Results
+
+In what has to be one of the most stunning results in US political history, Donlad Trump flipped a number of blue states to capture the presidency. There are a few states that are yet to be officially called, but as of 7:00am EST Trump had captured 279 electoral votes to Hillary Clinton's 218. Trump managed to flip at least five states from 2012, including Florida, Ohio, and most surprisingly Pennsylvania. 
+
+Of course, the major question coming out of this year's election is how public polls at the state level were so wrong, collectively. Trump won, or is on pace to win, a number of states where Clinton had an average chance of victory over 90%. In some of these cases, Trump never led in any public poll leading up to the election. 
+
+For now, it appears that Clinton's lack of alternative routes to 270 was what did her in. 
+
+Clinton would have captured 268 electoral votes in states where she had a >= 90%+ of winning, but after that there were only five states where she was the favorite:
+
+New Hampshire (4) 81%
+Florida (29) 74.6%
+Nevada (6) 71.8%
+North Carolina (15) 63.6%
+Maine CD-2 (1) 52.2%
+
+This means that if Trump were able to flip what was previous thought to be a solid blue state, Clinton would have limited options to make up those votes. And that is essentially what happened. 
+
+The loss of Ohio was expected (she only had an average chance of 32.6% to win it), but when Florida went to Trump that left Clinton with only 26 likely electoral votes to make up any ground. 
+
+As the returns flowed in it became clear that Michigan was in play. The same for Wisconsin and Pennsylvania. These three states represent 16, 10, and 20 electoral votes, respecitvely, and all three were 91% or better to vote for Clinton. Losing any one of those three would have been hard enough to make up for, but losing two for sure (Michigan has yet to be called) as well as Florida exposed the lack of options for Clinton.
+
+In terms of the major forecasters, FiveThirtyEight caught a lot of heat leading up to the election for how bearish their model appeared to be on Clinton. They were a clear outlier, not just at the national level, but for many key states. As of this morning, they appear to have been the most accurate when measured by Brier Scores at the state level:
+
+![alt text](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/brier_scores_2016-11-09%2007:05:21.png?raw=true)
+
+These Brier Scores take into account the last eight days of predictions and are averaged over those eight days for each forecaster.
+
 ## Final Prediction (7:00am EST on November 8, 2016)
 
 Election Day is here, and the final SAFE model shows Hillary Clinton winning the election with an estimated 314 electoral votes to Donald Trump's 224.
