@@ -20,7 +20,7 @@ Nevada (6) 71.8%
 North Carolina (15) 63.6%
 Maine CD-2 (1) 52.2%
 
-This means that if Trump were able to flip what was previous thought to be a solid blue state, Clinton would have limited options to make up those votes. And that is essentially what happened. 
+This means that if Trump were able to flip what was previously thought to be a solid blue state, Clinton would have limited options to make up those votes. And that is essentially what happened. 
 
 The loss of Ohio was expected (she only had an average chance of 32.6% to win it), but when Florida went to Trump that left Clinton with only 26 likely electoral votes to make up any ground. 
 
